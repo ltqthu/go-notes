@@ -8,6 +8,6 @@
 * 操作MySQL数据库
 * 操作Redis数据库
 
-[GitHub](https://github.com/ltqthu/go-notes.git)
+[GitHub](https://github.com/ltqthu/go-notes)
 
 [Get Started](#quick-start)
