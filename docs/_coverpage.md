@@ -8,5 +8,6 @@
 * UI类库：Mint-UI、Vant
 * 后端数据接口：Express、MongoDB
 
-[GitHub](https://github.com/Hanxueqing/Douban-Movie.git)
+[GitHub](https://github.com/ltqthu/go-notes.git)
+
 [Get Started](#quick-start)
